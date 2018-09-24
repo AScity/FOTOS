@@ -1,4 +1,4 @@
-package com.lunova;
+package com.app;
 
 /**
  * Hello world!

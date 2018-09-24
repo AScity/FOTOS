@@ -1,4 +1,4 @@
-package com.lunova;
+package com.app;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
